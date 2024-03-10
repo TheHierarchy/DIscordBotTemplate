@@ -1,8 +1,5 @@
 # DiscordBotTemplate
 
-![Discord Bot Template](https://cdn.discordapp.com/attachments/1162119354129850538/1216435341519491164/main.png?ex=660060b1&is=65edebb1&hm=a978e4ee5a5b70bc401ba271527b83d7b1f8ac0c9182d737ff8b7f80183c7ce8&)
-
-
 
 Introducing a comprehensive Discord bot template, meticulously designed to cater to developers seeking a robust and scalable foundation for their custom Discord bot projects. This template is not just a starting point; it's a leap towards creating a sophisticated Discord bot with a wide array of functionalities.
 
@@ -21,3 +18,9 @@ Introducing a comprehensive Discord bot template, meticulously designed to cater
 - **Scalable and Maintainable:** Designed with scalability and maintainability in mind, this template allows you to expand your bot's features without compromising on code quality or performance. The modular structure ensures that enhancements and updates are streamlined and manageable.
 
 Whether you're developing a bot for community management, gaming, or any other purpose, this Discord bot template provides a solid foundation, rich in features and designed for scalability and ease of use. Embark on your bot development journey with a template that equips you with everything you need to create a compelling and interactive Discord bot.
+
+![Discord Bot Template](https://cdn.discordapp.com/attachments/1162119354129850538/1216435341519491164/main.png?ex=660060b1&is=65edebb1&hm=a978e4ee5a5b70bc401ba271527b83d7b1f8ac0c9182d737ff8b7f80183c7ce8&)
+
+
+- **THE HIERARCHY**
+
