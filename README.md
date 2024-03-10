@@ -1,5 +1,6 @@
 # DiscordBotTemplate
 
+**THIS IS IN NODE JAVASCRIPT**
 
 Introducing a comprehensive Discord bot template, meticulously designed to cater to developers seeking a robust and scalable foundation for their custom Discord bot projects. This template is not just a starting point; it's a leap towards creating a sophisticated Discord bot with a wide array of functionalities.
 
